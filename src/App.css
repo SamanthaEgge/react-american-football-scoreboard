@@ -120,3 +120,16 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.buttons-general {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem;
+  border-radius: 4px;
+}
+
+.quarter-buttons {
+  display: flex;
+}

@@ -53,6 +53,12 @@ function App() {
             Away Field Goal
           </button>
         </div>
+        <div className='team-inputs'>
+          <form>
+          <input />
+          <input />
+          </form>
+        </div>
       </section>
     </div>
   );
